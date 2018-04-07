@@ -1,0 +1,57 @@
+
+---Downloaded files---
+The import files for: Theme Demo Content were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/themes/education-mind/demo/content.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/themes/education-mind/demo/widget.wie
+Customizer file = C:\xampp\htdocs\wordpress/wp-content/themes/education-mind/demo/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - No Title - Imported
+EM: Advanced Recent Posts - Recent Highlights - Imported
+Recent Posts - No Title - Imported
+Categories - No Title - Imported
+
+Front Page Widget Area : 
+
+EM: Intro - About Our University - Imported
+EM: Call To Action - Education For Inspired Life And Positive Change - Imported
+EM: Services - Why Choose Us ? - Imported
+EM: Featured Page - About Our Library - Imported
+EM: Call To Action - The Premium WordPress Theme For University !! - Imported
+EM: Latest News - Latest Blog - Imported
+
+Footer 1 : 
+
+Text - About University !! - Imported
+EM: Social - No Title - Imported
+
+Footer 2 : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer 3 : 
+
+EM: Advanced Recent Posts - Recent Blog - Imported
+
+Footer 4 : 
+
+Gallery - Our Gallery - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

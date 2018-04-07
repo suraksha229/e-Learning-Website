@@ -1,0 +1,126 @@
+
+---Downloaded files---
+The import files for: Demo content were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/themes/sydney/demo-content/demo-content.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/themes/sydney/demo-content/demo-widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import "Jane Doe": Invalid post type employees
+[WARNING] Failed to import "Client 1": Invalid post type clients
+[WARNING] Failed to import "Client 2": Invalid post type clients
+[WARNING] Failed to import "Client 3": Invalid post type clients
+[WARNING] Failed to import "Client 4": Invalid post type clients
+[WARNING] Failed to import "Client 5": Invalid post type clients
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import "Jane Doe": Invalid post type employees
+[WARNING] Failed to import "Client 1": Invalid post type clients
+[WARNING] Failed to import "Client 2": Invalid post type clients
+[WARNING] Failed to import "Client 3": Invalid post type clients
+[WARNING] Failed to import "Client 4": Invalid post type clients
+[WARNING] Failed to import "Client 5": Invalid post type clients
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import "Jane Doe": Invalid post type employees
+[WARNING] Failed to import "Client 1": Invalid post type clients
+[WARNING] Failed to import "Client 2": Invalid post type clients
+[WARNING] Failed to import "Client 3": Invalid post type clients
+[WARNING] Failed to import "Client 4": Invalid post type clients
+[WARNING] Failed to import "Client 5": Invalid post type clients
+
+
+---Importing widgets---
+sidebar-above-header : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Imported
+Calendar - No Title - Imported
+
+Footer 1 : 
+
+sydney_video_widget - No Title - Site does not support widget
+
+Footer 2 : 
+
+Text - No Title - Imported
+
+Footer 3 : 
+
+sydney_contact_info - Get in touch - Site does not support widget
+
+
+
+---pt-ocdi/after_import---
+
